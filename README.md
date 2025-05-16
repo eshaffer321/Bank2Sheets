@@ -3,6 +3,37 @@
 [![Coverage Status](https://coveralls.io/repos/github/eshaffer321/boa-spreadsheet-api/badge.svg?branch=master)](https://coveralls.io/github/eshaffer321/boa-spreadsheet-api?branch=master)
 ![Docker Pulls](https://img.shields.io/docker/pulls/erickshaffer/boa-spreadsheet-api.svg)
 
+# Bank of America to Google Spreadsheet 🛑 Project Sunset Notice (May 2025)
+
+This project has been **officially sunset** and is no longer maintained.  
+It remains public as a reference to a **personal finance automation project**  
+that surprisingly received **8 GitHub stars and 4 forks**.
+
+---
+
+## 🏆 What It Was
+
+A personal web service to:
+- Scrape **Bank of America** transactions.
+- Re-categorize them with **custom rules**.
+- Insert them into a **Google Sheet** via API.
+
+---
+
+## 🛠️ Key Technologies
+- Python web scraper (external)
+- Node.js API server
+- Google Sheets API integration
+- Docker deployment support
+
+---
+
+## ⚠️ Status
+This project is **no longer maintained or recommended for active use**.  
+It remains archived for historical and portfolio reference.
+
+> Shipped. Learned. Moving on.
+
 Bank transactions categorized automatically inserted into a [google sheet](https://docs.google.com/spreadsheets/d/14GYLeWTUBPFWYzXMAJJV4YPmwcsf6vabkQ0-CeHSqHQ/edit?usp=sharing).
 ## About
 The motivation behind this project is that my spouse and I have different bank accounts. I wanted to centralize our 
